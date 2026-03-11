@@ -1,4 +1,4 @@
-# Fala, eu sou o Miguel Duque! 👋
+# Olá, eu sou o Miguel Duque!
 
 ### 🚀 Estudante de Dados & Entusiasta de IA
 
