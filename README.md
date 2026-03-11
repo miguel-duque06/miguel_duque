@@ -2,7 +2,7 @@
 
 ### 🚀 Estudante de Dados & Entusiasta de IA
 
-Atualmente, estou mergulhado no curso de **Ciência de Dados e Inteligência Artificial no IESB** (2026-2029)[cite: 8, 9]. [cite_start]Sou do tipo que adora resolver problemas, seja criando uma automação ou organizando aquele caos de informações que ninguém quer mexer.
+Atualmente, estou mergulhado no curso de **Ciência de Dados e Inteligência Artificial no IESB** (2026-2030). Sou do tipo que adora resolver problemas, seja criando uma automação ou organizando aquele caos de informações que ninguém quer mexer.
 
 ---
 
@@ -25,6 +25,6 @@ Minha jornada mistura o mundo dos códigos com a vida real de quem já botou a m
 
 ### 📫 Bora conversar?
 
-* **LinkedIn:** https://www.linkedin.com/in/miguel-afonso-duque-lopes-5111273a3
+**LinkedIn:** https://www.linkedin.com/in/miguel-afonso-duque-lopes-5111273a3
 **E-mail:** contato.miguell.duque@gmail.com
 **Onde estou:** Brasília - DF
