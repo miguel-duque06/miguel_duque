@@ -26,5 +26,7 @@ Minha jornada mistura o mundo dos códigos com a vida real de quem já botou a m
 ### 📫 Bora conversar?
 
 **LinkedIn:** https://www.linkedin.com/in/miguel-afonso-duque-lopes-5111273a3
+
 **E-mail:** contato.miguell.duque@gmail.com
+
 **Onde estou:** Brasília - DF
