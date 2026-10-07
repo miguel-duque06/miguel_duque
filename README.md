@@ -28,7 +28,7 @@ Minha jornada mistura o mundo dos códigos com a vida real de quem já botou a m
 
 ### 📫 Bora conversar?
 
-**LinkedIn:** https://www.linkedin.com/in/miguel-afonso-duque-lopes-5111273a3
+**LinkedIn:** https://www.linkedin.com/in/miguellduque/
 
 **E-mail:** contato.miguell.duque@gmail.com
 
